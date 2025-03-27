@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(35, 87, 77);
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 15px black ;
+}
+
+header{
+    background-color: rgb(12, 41, 35);
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 20px;
+}
+
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p{
+    text-align: center;
+}
+
+
